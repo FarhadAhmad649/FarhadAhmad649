@@ -1,44 +1,18 @@
 <div align="center">
 
-<!-- GitHub Stats -->
-<img 
-src="https://github-readme-stats.vercel.app/api?username=FarhadAhmad649&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"
-width="48%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0057B7,100:00BFFF&height=260&section=header&text=Farhad%20Ahmad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Engineer&descAlignY=58&descSize=20"/>
 
-
-<!-- GitHub Streak -->
-<img 
-src="https://streak-stats.demolab.com?user=FarhadAhmad649&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
-width="48%"
-/>
-
-
-<br/><br/>
-
-
-<!-- Top Languages Alternative -->
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarhadAhmad649&theme=tokyonight"
-width="48%"
-/>
-
-
-<!-- Profile Summary -->
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhadAhmad649&theme=tokyonight"
-width="98%"
-/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I+am+Farhad+Ahmad+👋;Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Applications;Turning+Ideas+Into+Digital+Solutions" />
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=FarhadAhmad649&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/FarhadAhmad649?label=Followers&style=for-the-badge&color=00BFFF"/>
+<img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00BFFF?style=for-the-badge"/>
 
-<!-- Trophy -->
-<img 
-src="https://github-profile-trophy.vercel.app/?username=FarhadAhmad649&theme=tokyonight&no-frame=true&column=7"
-width="98%"
-/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -49,13 +23,13 @@ width="98%"
 ```text
 ┌──────────────────────────────────────────────┐
 │ > farhad.system                              │
-│                                              │
-│ ✓ Name: Farhad Ahmad                         │
-│ ✓ Role: Full Stack Developer                 │
-│ ✓ Stack: MERN + Next.js                      │
-│ ✓ Focus: Scalable Web Applications           │
-│ ✓ Learning: System Design & Architecture     │
-│ ✓ Mission: Turning Ideas Into Reality        │
+│                                                │
+│ ✓ Name: Farhad Ahmad                          │
+│ ✓ Role: Full Stack Developer                  │
+│ ✓ Stack: MERN + Next.js                       │
+│ ✓ Focus: Scalable Web Applications            │
+│ ✓ Learning: System Design & Architecture      │
+│ ✓ Mission: Turning Ideas Into Reality         │
 └──────────────────────────────────────────────┘
 ```
 
@@ -116,39 +90,13 @@ My journey started with curiosity about how websites work, and today I focus on 
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img 
-src="https://github-readme-stats.vercel.app/api?username=FarhadAhmad649&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&count_private=true&cache_seconds=1800"
-width="49%"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=FarhadAhmad649&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadAhmad649&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="49%"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadAhmad649&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhadAhmad649&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=ffffff" width="49%"/>
 
-<!-- GitHub Streak -->
-<img 
-src="https://streak-stats.demolab.com?user=FarhadAhmad649&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
-width="49%"
-/>
-
-
-<!-- Top Languages -->
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadAhmad649&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&langs_count=8&cache_seconds=1800"
-width="49%"
-/>
-
-
-<!-- Activity Graph -->
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=FarhadAhmad649&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true"
-width="98%"
-/>
-
-
-<!-- GitHub Trophy -->
-<img 
-src="https://github-profile-trophy.vercel.app/?username=FarhadAhmad649&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"
-width="98%"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=FarhadAhmad649&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
