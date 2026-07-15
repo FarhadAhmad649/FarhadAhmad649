@@ -2,7 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0057B7,100:00BFFF&height=260&section=header&text=Farhad%20Ahmad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Engineer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I+am+Farhad+Ahmad+👋;Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Applications;Turning+Ideas+Into+Digital+Solutions" />
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=100&lines=Hi%2C%20I%20am%20Farhad%20Ahmad;Full%20Stack%20Developer;MERN%20Stack%20Engineer;Building%20Real%20World%20Applications;Turning%20Ideas%20Into%20Digital%20Solutions"
+alt="Typing SVG"
+/>
 
 <br/>
 
@@ -23,13 +26,13 @@
 ```text
 ┌──────────────────────────────────────────────┐
 │ > farhad.system                              │
-│                                                │
-│ ✓ Name: Farhad Ahmad                          │
-│ ✓ Role: Full Stack Developer                  │
-│ ✓ Stack: MERN + Next.js                       │
-│ ✓ Focus: Scalable Web Applications            │
-│ ✓ Learning: System Design & Architecture      │
-│ ✓ Mission: Turning Ideas Into Reality         │
+│                                              │
+│ ✓ Name: Farhad Ahmad                         │
+│ ✓ Role: Full Stack Developer                 │
+│ ✓ Stack: MERN + Next.js                      │
+│ ✓ Focus: Scalable Web Applications           │
+│ ✓ Learning: System Design & Architecture     │
+│ ✓ Mission: Turning Ideas Into Reality        │
 └──────────────────────────────────────────────┘
 ```
 
