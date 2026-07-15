@@ -90,16 +90,19 @@ My journey started with curiosity about how websites work, and today I focus on 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FarhadAhmad649&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadAhmad649&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="49%"/>
+<!-- GitHub Streak -->
+<img 
+src="https://streak-stats.demolab.com?user=FarhadAhmad649&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+width="49%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadAhmad649&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhadAhmad649&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=ffffff" width="49%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=FarhadAhmad649&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<!-- Activity Graph -->
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=FarhadAhmad649&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true"
+width="98%"
+/>
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
